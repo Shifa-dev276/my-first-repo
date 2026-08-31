@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
     
-    int arr[6] = {10,15,20,33,54,12};
+    int arr[6] = {-10,15,20,33,-54,12};
     
     int countPositive = 0;
     int countNegative = 0;
